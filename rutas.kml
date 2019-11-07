@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+      <Document>
+        <Placemark>
+          <name>test</name>
+          <description>test Desc</description>
+          <Style>
+            <LineStyle>
+              <color>7f0000ff</color>
+              <width>8</width>
+            </LineStyle>
+          </Style>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>
+              -122.1822035425683,47.42228990140251 
+              -122.2822035425683,47.52228990140251 
+              -122.3822035425683,47.62228990140251
+              -122.4822035425683,47.72228990140251
+              -122.5822035425683,47.82228990140251
+              -122.6822035425683,47.92228990140251
+              -122.7822035425683,48.12228990140251
+              -122.8822035425683,48.22228990140251
+              -122.9822035425683,48.32228990140251
+              -123.0822035425683,48.42228990140251
+            </coordinates>
+          </LineString>
+        </Placemark>
+      </Document>
+</kml>
+
+
+
+
+

@@ -1,0 +1,32 @@
+<!ELEMENT Agencia (#PCDATA)>
+<!ELEMENT fecha-fin (#PCDATA)>
+<!ELEMENT medio-transporte (#PCDATA)>
+<!ELEMENT fecha-inicio (#PCDATA)>
+<!ELEMENT tiempo-duracion (#PCDATA)>
+<!ELEMENT descripcion (#PCDATA)>
+<!ELEMENT lugar-inicio (#PCDATA)>
+<!ELEMENT direccion-inicio (#PCDATA)>
+<!ELEMENT recomendacion (#PCDATA)>
+<!ELEMENT rutasTuristicas (rutaTuristica+)>
+<!ELEMENT rutaTuristica (medio-transporte, fecha-inicio, fecha-fin, tiempo-duracion, Agencia, descripcion, persona-adecuadas, lugar-inicio, direccion-inicio, coordenadas, referencias, recomendacion, hitos)>
+<!ELEMENT persona-adecuadas (persona*)>
+<!ELEMENT persona (#PCDATA)>
+<!ELEMENT coordenadas (latitud, longitud, altura)>
+<!ELEMENT latitud (#PCDATA)>
+<!ELEMENT longitud (#PCDATA)>
+<!ELEMENT altura (#PCDATA)>
+<!ELEMENT referencias (referencia+)>
+<!ELEMENT referencia (#PCDATA)>
+
+<!ELEMENT hitos (hito+)>
+<!ELEMENT hito (descripcion, coordenadas, distancia-anterior, galeria-img, galeria-video)>
+<!ELEMENT distancia-anterior (#PCDATA)>
+<!ELEMENT galeria-img (img+)>
+<!ELEMENT img (#PCDATA)>
+<!ELEMENT galeria-video (video*)>
+<!ELEMENT video (#PCDATA)>
+
+<!ATTLIST rutaTuristica nombre CDATA #REQUIRED>
+<!ATTLIST rutaTuristica tipo CDATA #REQUIRED>
+<!ATTLIST hito nombre CDATA #REQUIRED>
+<!ATTLIST tiempo-duracion medida CDATA #REQUIRED>

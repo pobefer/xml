@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="html/xsl" href="graficos.xsl"?>
+<rutasTuristicas>
+  <rutaTuristica nombre="Ruta del naranco" tipo="Senderismo">
+    <medio-transporte>A pie</medio-transporte>
+    <fecha-inicio>2020-10-19</fecha-inicio>
+    <fecha-fin>2020-10-19</fecha-fin>
+    <tiempo-duracion>PT7H</tiempo-duracion>
+    <Agencia>Anturis</Agencia>
+    <descripcion>Ruta por el centro de oviedo y subida al naranco</descripcion>
+    <persona-adecuadas>
+      <persona>Apta para niños</persona>
+    </persona-adecuadas>
+    <lugar-inicio>Oviedo</lugar-inicio>
+    <direccion-inicio>calle Uria</direccion-inicio>
+    <coordenadas>
+      <latitud>43.364265</latitud>
+      <longitud>-5.851607</longitud>
+      <altura>relativeToGround</altura>
+    </coordenadas>
+    <referencias>
+      <referencia>https://es.wikipedia.org/wiki/Oviedo</referencia>
+      <referencia>https://es.wikipedia.org/wiki/Santa_Mar%C3%ADa_del_Naranco</referencia>
+      <referencia>https://es.wikipedia.org/wiki/Monumento_al_Sagrado_Coraz%C3%B3n_de_Jes%C3%BAs_(Oviedo)</referencia>
+    </referencias>
+    <recomendacion>6</recomendacion>
+    <hitos>
+      <hito nombre="Campo San Francisco">
+        <descripcion>Principal zona verde en el centro de oviedo</descripcion>
+        <coordenadas>
+          <latitud>43.364265</latitud>
+          <longitud>-5.851607</longitud>
+          <altura>0</altura>
+        </coordenadas>
+        <distancia-anterior>0</distancia-anterior>
+        <galeria-img>
+          <img>multimedia/img.jpg</img>
+        </galeria-img>
+        <galeria-video>
+        </galeria-video>
+      </hito>     
+      <hito nombre="Iglesia San Miguel de Lillo">
+        <descripcion>Iglesia importante en oviedo</descripcion>
+        <coordenadas>
+          <latitud>43.379091</latitud>
+          <longitud>-5865695</longitud>
+          <altura>200</altura>
+        </coordenadas>
+        <distancia-anterior>1100</distancia-anterior>
+        <galeria-img>
+          <img>multimedia/img.jpg</img>
+          </galeria-img>
+        <galeria-video>
+        </galeria-video>
+      </hito>
+      <hito nombre="Monumento al Sagrado Corazon de Jesus">
+        <descripcion>Monumento en lo alto del naranco</descripcion>
+        <coordenadas>
+          <latitud>43.384894</latitud>
+          <longitud>-5.864109</longitud>
+          <altura>150</altura>
+        </coordenadas>
+        <distancia-anterior>1100</distancia-anterior>
+        <galeria-img>
+          <img>multimedia/img.jpg</img>
+        </galeria-img>
+        <galeria-video>
+        </galeria-video>
+      </hito>
+    </hitos>
+  </rutaTuristica>
+
+  <rutaTuristica nombre="Ruta de la provdencia" tipo="Paisajistica y monumentos">
+    <medio-transporte>A pie</medio-transporte>
+    <fecha-inicio>2020-10-19</fecha-inicio>
+    <fecha-fin>2020-10-19</fecha-fin>
+    <tiempo-duracion>PT3H</tiempo-duracion>
+    <Agencia>Antera</Agencia>
+    <descripcion>Ruta a la vera del mar conociendo la zona de la providencia de Gijon</descripcion>
+    <persona-adecuadas>
+      <persona>Apta para niños</persona>
+      <persona>Apta para ancianos</persona>
+    </persona-adecuadas>
+    <lugar-inicio>Hotel Abba Gijon</lugar-inicio>
+    <direccion-inicio>Paseo Dr. Fleming, 37</direccion-inicio>
+    <coordenadas>
+      <latitud>43.548202</latitud>
+      <longitud>-5.640939</longitud>
+      <altura>relativeToGround</altura>
+    </coordenadas>
+    <referencias>
+      <referencia>https://es.wikipedia.org/wiki/La_madre_del_emigrante</referencia>
+      <referencia>https://es.wikipedia.org/wiki/Ermita_de_Nuestra_Se%C3%B1ora_de_la_Providencia</referencia>
+    </referencias>
+    <recomendacion>5</recomendacion>
+    <hitos>
+      <hito nombre="Monumento Madre del emigrante">
+        <descripcion>monumento a la madre del emigrante</descripcion>
+        <coordenadas>
+          <latitud>43.548202</latitud>
+          <longitud>-5.640939</longitud>
+          <altura>relativeToGround</altura>
+        </coordenadas>
+        <distancia-anterior>0</distancia-anterior>
+        <galeria-img>
+          <img>multimedia/img.jpg</img>
+        </galeria-img>
+        <galeria-video>
+        </galeria-video>
+
+      </hito>
+      <hito nombre="Monumento Nunca Mas">
+        <descripcion>MONUMENTO A LOS ASTURIANOS DEPORTADOS A LOS CAMPOS NAZIS</descripcion>
+        <coordenadas>
+          <latitud>43.549581</latitud>
+          <longitud>-5.627233</longitud>
+          <altura>27</altura>
+        </coordenadas>
+        <distancia-anterior>1100</distancia-anterior>
+        <galeria-img>
+          <img>multimedia/img.jpg</img>
+        </galeria-img>
+        <galeria-video>
+        </galeria-video>
+      </hito>
+      <hito nombre="Ermita de la providencia">
+        <descripcion>ermita de la virgen de la providecia situada engijon en el alto de la providencia</descripcion>
+        <coordenadas>
+          <latitud>43.551090</latitud>
+          <longitud>-5.615722</longitud>
+          <altura>340</altura>
+        </coordenadas>
+        <distancia-anterior>1100</distancia-anterior>
+        <galeria-img>
+          <img>multimedia/img.jpg</img>
+        </galeria-img>
+        <galeria-video>
+        </galeria-video>
+      </hito>
+      <hito nombre="Mirador de la providencia">
+        <descripcion>Es un Mirador a reseñar en Gijon tanto por sus vistas, como por el paseo que lleva hasta el. El Ayuntamiento de Gijón ha hecho un camino asfaltado de 5km que lleva por toda la costa. Merece la pena reseñarlo como atracción importante de Gijón</descripcion>
+        <coordenadas>
+          <latitud>43.554124</latitud>
+          <longitud>-5.618682</longitud>
+          <altura>0</altura>
+        </coordenadas>
+        <distancia-anterior>1100</distancia-anterior>
+        <galeria-img>
+          <img>multimedia/img.jpg</img>
+        </galeria-img>
+        <galeria-video>
+        </galeria-video>
+      </hito>
+    </hitos>
+  </rutaTuristica>
+
+  <rutaTuristica nombre="Ruta del elogio" tipo="Monumentos">
+    <medio-transporte>A pie</medio-transporte>
+    <fecha-inicio>2020-10-19</fecha-inicio>
+    <fecha-fin>2020-10-19</fecha-fin>
+    <tiempo-duracion>PT4H</tiempo-duracion>
+    <Agencia>Tinel</Agencia>
+    <descripcion>Ruta por el centro de gijon hasta el elogio del horizonte</descripcion>
+    <persona-adecuadas>
+      <persona>Apta todos los publicos</persona>
+    </persona-adecuadas>
+    <lugar-inicio>Museo del ferrocarril</lugar-inicio>
+    <direccion-inicio>Calle rodriguez san pedro, gijon</direccion-inicio>
+    <coordenadas>
+      <latitud>43.541254</latitud>
+      <longitud>-5.672285</longitud>
+      <altura>relativeToGround</altura>
+    </coordenadas>
+    <referencias>
+      <referencia>https://es.wikipedia.org/wiki/Elogio_del_Horizonte</referencia>
+      <referencia>https://es.wikipedia.org/wiki/Gij%C3%B3n</referencia>
+      <referencia>https://es.wikipedia.org/wiki/Museo_del_Ferrocarril_de_Asturias</referencia>
+    </referencias>
+    <recomendacion>8</recomendacion>
+    <hitos>
+      <hito nombre="Museo del ferrocarril">
+        <descripcion>museo del ferrocarril</descripcion>
+        <coordenadas>
+          <latitud>43.541254</latitud>
+          <longitud>-5.672285</longitud>
+          <altura>0</altura>
+        </coordenadas>
+        <distancia-anterior>100</distancia-anterior>
+        <galeria-img>
+          <img>multimedia/img.jpg</img>
+        </galeria-img>
+        <galeria-video>
+        </galeria-video>
+      </hito>
+      <hito nombre="Ayuntamiento de gijon">
+        <descripcion>Ayuntamiento de la ciudad</descripcion>
+        <coordenadas>
+          <latitud>43.545138</latitud>
+          <longitud>-5.662619</longitud>
+          <altura>90</altura>
+        </coordenadas>
+        <distancia-anterior>800</distancia-anterior>
+        <galeria-img>
+          <img>multimedia/img.jpg</img>
+        </galeria-img>
+        <galeria-video>
+        </galeria-video>
+      </hito>
+      <hito nombre="Elogio del horizonte">
+        <descripcion>munumento situado en cimadevilla</descripcion>
+        <coordenadas>
+          <latitud>43.549049</latitud>
+          <longitud>-5.662961</longitud>
+          <altura>240</altura>
+        </coordenadas>
+        <distancia-anterior>300</distancia-anterior>
+        <galeria-img>
+          <img>multimedia/img.jpg</img>
+        </galeria-img>
+        <galeria-video>
+        </galeria-video>
+      </hito>
+    </hitos>
+  </rutaTuristica>
+
+  <rutaTuristica nombre="Ruta centro de oviedo" tipo="Monumentos">
+    <medio-transporte>A pie</medio-transporte>
+    <fecha-inicio>2020-10-19</fecha-inicio>
+    <fecha-fin>2020-10-19</fecha-fin>
+    <tiempo-duracion>PT2H</tiempo-duracion>
+    <Agencia>Tinel</Agencia>
+    <descripcion>Ruta por el centro de oviedo</descripcion>
+    <persona-adecuadas>
+      <persona>Apta todos los publicos</persona>
+    </persona-adecuadas>
+    <lugar-inicio>Mercado el fontan</lugar-inicio>
+    <direccion-inicio>Calle fontan, oviedo</direccion-inicio>
+    <coordenadas>
+      <latitud>43.359934</latitud>
+      <longitud>-5.845694</longitud>
+      <altura>relativeToGround</altura>
+    </coordenadas>
+    <referencias>
+      <referencia>https://es.wikipedia.org/wiki/Casa_consistorial_de_Oviedo</referencia>
+      <referencia>https://es.wikipedia.org/wiki/Oviedo</referencia>
+      <referencia>https://es.wikipedia.org/wiki/Museo_Arqueol%C3%B3gico_de_Asturias</referencia>
+    </referencias>
+    <recomendacion>6</recomendacion>
+    <hitos>
+      <hito nombre="Ayuntamiento de Oviedo">
+        <descripcion>Ayuntamiento de la ciudad</descripcion>
+        <coordenadas>
+          <latitud>43.360439</latitud>
+          <longitud>-5.844409</longitud>
+          <altura>240</altura>
+        </coordenadas>
+        <distancia-anterior>1100</distancia-anterior>
+        <galeria-img>
+          <img>multimedia/img.jpg</img>
+        </galeria-img>
+        <galeria-video>
+        </galeria-video>
+      </hito>
+      <hito nombre="Catedral de Oviedo">
+        <descripcion>Catedral de la ciudad</descripcion>
+        <coordenadas>
+          <latitud>43.362588</latitud>
+          <longitud>-5.843547</longitud>
+          <altura>0</altura>
+        </coordenadas>
+        <distancia-anterior>1100</distancia-anterior>
+        <galeria-img>
+          <img>multimedia/img.jpg</img>
+        </galeria-img>
+        <galeria-video>
+        </galeria-video>
+      </hito>
+      <hito nombre="Museo arqueologico de asturias">
+        <descripcion>museo de arqueologia de asturias</descripcion>
+        <coordenadas>
+          <latitud>43.362690</latitud>
+          <longitud>-5.842302</longitud>
+          <altura>100</altura>
+        </coordenadas>
+        <distancia-anterior>1100</distancia-anterior>
+        <galeria-img>
+          <img>multimedia/img.jpg</img>
+        </galeria-img>
+        <galeria-video>
+        </galeria-video>
+      </hito>
+    </hitos>
+  </rutaTuristica>
+
+  <rutaTuristica nombre="Ruta centro de Aviles" tipo="Monumentos">
+    <medio-transporte>A pie</medio-transporte>
+    <fecha-inicio>2020-10-19</fecha-inicio>
+    <fecha-fin>2020-10-19</fecha-fin>
+    <tiempo-duracion>PT3H</tiempo-duracion>
+    <Agencia>Tares</Agencia>
+    <descripcion> por el centro de aviles</descripcion>
+    <persona-adecuadas>
+      <persona>Apta todos los publicos</persona>
+    </persona-adecuadas>
+    <lugar-inicio>Ayuntamiento de Aviles</lugar-inicio>
+    <direccion-inicio>Plaza España, Aviles</direccion-inicio>
+    <coordenadas>
+      <latitud>43.555633</latitud>
+      <longitud>-5.922345</longitud>
+      <altura>relativeToGround</altura>
+    </coordenadas>
+    <referencias>
+      <referencia>https://es.wikipedia.org/wiki/Centro_Cultural_Internacional_Oscar_Niemeyer</referencia>
+      <referencia>https://es.wikipedia.org/wiki/Avil%C3%A9s</referencia>
+      <referencia>https://es.wikipedia.org/wiki/Museo_de_la_Historia_Urbana_de_Avil%C3%A9s</referencia>
+    </referencias>
+    <recomendacion>5</recomendacion>
+    <hitos>
+      <hito nombre="Ayuntaqmiento de Aviles">
+        <descripcion>Ayuntamiento de la ciudad</descripcion>
+        <coordenadas>
+          <latitud>43.555633</latitud>
+          <longitud>-5.922345</longitud>
+          <altura>100</altura>
+        </coordenadas>
+        <distancia-anterior>1100</distancia-anterior>
+        <galeria-img>
+          <img>multimedia/img.jpg</img>
+        </galeria-img>
+        <galeria-video>
+        </galeria-video>
+      </hito>
+      <hito nombre="Museo de historia urbana de aviles">
+        <descripcion>Museo de historia urbana de aviles</descripcion>
+        <coordenadas>
+          <latitud>43.557240</latitud>
+          <longitud>-5.921361</longitud>
+          <altura>250</altura>
+        </coordenadas>
+        <distancia-anterior>1100</distancia-anterior>
+        <galeria-img>
+          <img>multimedia/img.jpg</img>
+        </galeria-img>
+        <galeria-video>
+        </galeria-video>
+      </hito>
+      <hito nombre="Centro niemeyer">
+        <descripcion>Moderno espacio de arte y cultura</descripcion>
+        <coordenadas>
+          <latitud>43.557534</latitud>
+          <longitud>-5.917394</longitud>
+          <altura>150</altura>
+        </coordenadas>
+        <distancia-anterior>1100</distancia-anterior>
+        <galeria-img>
+          <img>multimedia/img.jpg</img>
+        </galeria-img>
+        <galeria-video>
+        </galeria-video>
+      </hito>
+    </hitos>
+  </rutaTuristica>
+</rutasTuristicas>
